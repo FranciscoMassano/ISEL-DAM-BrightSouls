@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "696965619058",
+    "project_id": "bright-souls-ae105",
+    "storage_bucket": "bright-souls-ae105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696965619058:android:f78e228c671d84920b91eb",
+        "android_client_info": {
+          "package_name": "my.gdx.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696965619058-vqpa3p7iovq8pt4m9778g0oia4ps9j1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFnW4RAh68VRkHW64eWbHCp0o_vWc-oHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696965619058-vqpa3p7iovq8pt4m9778g0oia4ps9j1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696965619058:android:20b838fe39ab87bb0b91eb",
+        "android_client_info": {
+          "package_name": "com.mygdx.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696965619058-vqpa3p7iovq8pt4m9778g0oia4ps9j1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFnW4RAh68VRkHW64eWbHCp0o_vWc-oHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696965619058-vqpa3p7iovq8pt4m9778g0oia4ps9j1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
