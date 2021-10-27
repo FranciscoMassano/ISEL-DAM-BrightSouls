@@ -1,0 +1,40 @@
+
+hero.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hero_attack
+  rotate: false
+  xy: 1, 57
+  size: 540, 54
+  orig: 540, 54
+  offset: 0, 0
+  index: -1
+hero_jump
+  rotate: false
+  xy: 1, 1
+  size: 432, 54
+  orig: 432, 54
+  offset: 0, 0
+  index: -1
+hero_run
+  rotate: false
+  xy: 543, 57
+  size: 432, 54
+  orig: 432, 54
+  offset: 0, 0
+  index: -1
+hero_death
+  rotate: false
+  xy: 435, 1
+  size: 216, 54
+  orig: 216, 54
+  offset: 0, 0
+  index: -1
+hero_idle
+  rotate: false
+  xy: 653, 1
+  size: 216, 54
+  orig: 216, 54
+  offset: 0, 0
+  index: -1
